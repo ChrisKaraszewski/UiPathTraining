@@ -1,0 +1,146 @@
+Column-0,Column-1,Column-2,Column-3
+" 
+ 
+Morpehus 
+Intelligent Automation 
+& Talent Solutions 
+ 
+85 Great Portland 
+Street, 
+First Floor, 
+London 
+W1W 7LT 
+ 
++44 (0) 203 589 0800 
+ 
+INVOICE # 532752 
+DATE: 09/24/2020 
+ 
+ 
+THANK YOU 
+FOR YOUR 
+BUSINESS! 
+",,INVOICE ,
+,,"To: Jayne Doe 
+Another Company Inc 
+Another Street 
+New York, NY, 10027 
+555-555-55555 
+Customer ID: 1021354 
+","To: Jayne Doe 
+Another Company Inc 
+Another Street 
+New York, NY, 10027 
+555-555-55555 
+Customer ID: 1021354 
+"
+,,SALESPERSON 
+JOB 
+SHIPPING 
+METHOD 
+SHIPPING 
+TERMS 
+DELIVERY 
+DATE 
+PAYMENT 
+TERMS 
+DUE DATE 
+Joe Blogs 
+656 
+CityLink 
+3Days 
+09/23/20 
+Due on 
+receipt 
+10/03/20 
+ 
+,
+,,QTY 
+ITEM # 
+DESCRIPTION 
+UNIT 
+PRICE 
+DISCOUNT 
+LINE TOTAL 
+100 
+#69 
+Dingits 
+$23.75 
+10% 
+$2137.50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL 
+DISCOUNT 
+$237.50 
+$2137.50 
+ 
+SUBTOTAL 
+$2137.50 
+ 
+4% SALES TAX 
+$85.50 
+ 
+TOTAL 
+$2223.00 
+ 
+,
